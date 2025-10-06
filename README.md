@@ -31,6 +31,7 @@ It integrates **Google Drive API**, **Twilio WhatsApp API**, and **Gemini AI** t
 ## 🚀 Deployment
 
 ### 1. Run n8n
-npm install -g n8n
-n8n start
+**npm install -g n8n**
+
+**n8n start**
 
